@@ -1,0 +1,230 @@
+body {
+        background-image: url(/Users/Administrador/Desktop/jogo/imagem/fase1.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+
+
+
+}
+
+
+h1 {
+     text-align: center;   
+     text-transform: uppercase;
+     color: white;   
+
+}
+
+h2 {
+     border-radius: 20px;   
+     margin-left: 170px;
+     margin-right: 170px;   
+     margin-top: 90px;
+     color: white;   
+    
+     text-align: center;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+
+
+}
+
+.urso1 {
+        
+        margin-right: 510px;
+        margin-left: 510px;
+        margin-top: 70px;
+        background: rgba(179, 29, 29, 0.87);
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.caminho1 {
+        
+        margin-right: 510px;
+        margin-left: 510px;
+        margin-top: 40px;
+        background: rgba(179, 29, 29, 0.87);
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imagem1 {
+          position: absolute;
+          left: 370px;      
+          top: 310px;      
+
+}
+
+/* RAGNAR FASE 1 */
+
+
+.imagem2 {
+        position: absolute;
+        left: 370px;      
+        top: 340px;      
+
+}
+/*bjorn fase 1 */
+
+.imagem3 {
+        position: absolute;
+        left: 340px;      
+        top: 350px;      
+
+}
+
+.talis1 {
+        
+        position: absolute;
+        left: 400px;
+        top: 230px;
+
+
+}
+
+/* FASE 2 */
+
+.fundof2 {
+        background-image: url(/Users/Administrador/Desktop/jogo/imagem/fundofase2.jpg);
+
+
+
+}
+
+.carnedeurso {
+       
+        margin-right: 510px;
+        margin-left: 510px;
+        margin-top: 80px;
+        background: rgba(179, 29, 29, 0.87);
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+
+}
+
+.pescar {
+        
+        margin-right: 510px;
+        margin-left: 510px;
+        margin-top: 40px;
+        background: rgba(179, 29, 29, 0.87);
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.escolher {
+
+        padding: 10px;
+        font-size: 20px;
+        margin-right: 470px;
+        margin-left: 600px;
+        margin-top:20px;
+        background: rgba(224, 13, 13, 0.336);
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+        
+}
+        
+
+.f2 {
+        margin-top: 60px;
+
+
+
+}
+
+.imagem22 {
+        
+        position: absolute;
+        left: 370px;      
+        top: 320px;      
+
+
+}
+
+.imagem32 { 
+        position: absolute;
+        left: 340px;      
+        top: 320px;   
+}
+
+/* Gamer over 2 */
+
+.gamer2 {
+        background-image: url(/Users/Administrador/Desktop/jogo/imagem/gamerover2.jpg);
+
+        
+}
+
+.gamerover2 {
+               color: red;
+                margin-top: 150px;
+                
+
+}
+
+.frase2 {
+        
+        margin-right: 400px;
+        margin-left: 400px;
+        
+        padding: auto;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        background: rgba(185, 50, 50, 0.904);
+
+}
+
+.escolherg {
+
+        padding: 10px;
+        font-size: 20px;
+        margin-right: 470px;
+        margin-left: 570px;
+        margin-top:20px;
+        background: rgba(224, 13, 13, 0.336);
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+        
+}
+
+.Voltar {
+        margin-top: 70px;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        color: white;
+        background: rgba(185, 50, 50, 0.904);
+        text-align: center;
+        margin-left: 600px;
+        margin-right: 600px;
+        border-radius: 30px;
+}
+
+/* Fase 3 */
+
+.fase3 { 
+        height: 100%;
+        width: 100%;
+        background-image: url(/Users/Administrador/Desktop/jogo/fase3/fundofase3.jpg);
+        
+}

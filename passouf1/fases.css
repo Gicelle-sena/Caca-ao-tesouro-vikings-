@@ -1,0 +1,126 @@
+body {
+        background-image: url(/Users/Administrador/Desktop/jogo/imagem/fase1.jpg);
+        background-repeat: no-repeat;
+        background-size: cover;
+
+
+
+}
+
+
+h1 {
+     text-align: center;   
+     text-transform: uppercase;
+     color: white;   
+
+}
+
+h2 {
+     border-radius: 20px;   
+     margin-left: 170px;
+     margin-right: 170px;   
+     margin-top: 90px;
+     color: white;   
+    
+     text-align: center;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+
+
+}
+
+.urso1 {
+
+        margin-right: 510px;
+        margin-left: 510px;
+        margin-top: 70px;
+        background: rgba(179, 29, 29, 0.87);
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.caminho1 {
+        
+        margin-right: 510px;
+        margin-left: 510px;
+        margin-top: 40px;
+        background: rgba(179, 29, 29, 0.87);
+        border-radius: 20px;
+        color: white;
+        text-align: center;
+        text-transform: uppercase;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imagem1 {
+          position: absolute;
+          left: 370px;      
+          top: 310px;      
+
+}
+
+/* RAGNAR FASE 1 */
+
+
+.imagem2 {
+        position: absolute;
+        left: 370px;      
+        top: 340px;      
+
+}
+/*bjorn fase 1 */
+
+.imagem3 {
+        position: absolute;
+        left: 340px;      
+        top: 350px;      
+
+}
+
+.talis1 {
+        
+        position: absolute;
+        left: 500px;
+        top: 230px;
+}
+
+.talis2 {
+        position: absolute;
+        left: 600px;
+        top: 280px;
+
+
+}
+
+.t1 {
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top: 300px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+.t2 {
+
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 570px;
+    margin-top: 250px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+

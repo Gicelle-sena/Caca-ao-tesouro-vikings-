@@ -1,0 +1,114 @@
+/* lagertha fase 3 */
+
+.fase3 {
+        background-image: url(/Users/Administrador/Desktop/jogo/fase3/fundofase3.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+
+}
+
+.imagemlf3 {
+    position: absolute;
+    left: 430px;      
+    top: 290px;  
+}
+
+.f3 {
+    border-radius: 20px;   
+     margin-left: 170px;
+     margin-right: 170px;   
+     margin-top: 90px;
+     color: white;   
+    
+     text-align: center;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+
+}
+
+.lagertha3 {
+
+
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:100px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.fs3 {
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+    text-transform: uppercase;
+}
+
+/* Bjorn fase 3 */
+
+.bjorn3 {
+
+
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:100px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imagembf3 {
+                position: absolute;
+                left: 410px;      
+                top: 290px;  
+
+
+}
+
+/* ragnar fase 3 */
+
+.ragnar3 {
+
+
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:100px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imagemrf3 {
+            
+    position: absolute;
+    left: 450px;      
+    top: 290px;  
+
+
+
+}
+
+
+
+.fasefinal {
+            background-image: url(/Users/Administrador/Desktop/jogo/imagem/fasefinal2.jpg);
+           background-size: cover;
+        background-repeat: no-repeat;
+
+}

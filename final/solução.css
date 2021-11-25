@@ -1,0 +1,371 @@
+/* lagertha fase 3 */
+
+.fase3 {
+        background-image: url(/Users/Administrador/Desktop/jogo/fase3/fundofase3.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+
+}
+
+.imagemlf3 {
+    position: absolute;
+    left: 430px;      
+    top: 290px;  
+}
+
+.f3 {
+    border-radius: 20px;   
+     margin-left: 170px;
+     margin-right: 170px;   
+     margin-top: 90px;
+     color: white;   
+    
+     text-align: center;
+     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+
+}
+
+.lagertha3 {
+
+
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:100px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+
+
+.fs3 {
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+    text-transform: uppercase;
+}
+
+/* Bjorn fase 3 */
+
+.bjorn3 {
+
+
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:100px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imagembf3 {
+                position: absolute;
+                left: 410px;      
+                top: 290px;  
+
+
+}
+
+/* ragnar fase 3 */
+
+.ragnar3 {
+
+
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:100px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.imagemrf3 {
+            
+    position: absolute;
+    left: 450px;      
+    top: 290px;  
+
+
+
+}
+
+/* fase final */
+
+.fasefinal {
+            background-image: url(/Users/Administrador/Desktop/jogo/imagem/fasefinal2.jpg);
+            background-repeat: no-repeat;
+            background-size: cover;
+
+}
+
+.lf{
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+    text-transform: uppercase;
+}
+
+    
+
+.lff{
+    border-radius: 20px;   
+    margin-left: 170px;
+    margin-right: 170px;   
+    margin-top: 90px;
+    color: white;   
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+
+}
+
+.lf4 {
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:100px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+.lf5 {
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:20px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+
+.imagemlf4 {
+            position: absolute;
+            left: 430px;      
+            top: 290px;  
+
+
+}
+
+.rf {
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.rff {
+    border-radius: 20px;   
+    margin-left: 170px;
+    margin-right: 170px;   
+    margin-top: 90px;
+    color: white;   
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+
+
+}
+
+.rf4 {
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:100px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+
+}
+
+.rf5 {
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:20px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.imagemrf4 {
+    position: absolute;
+    left: 430px;      
+    top: 300px;  
+
+}
+
+.bf {
+
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+    text-transform: uppercase;
+}
+
+.bff {
+
+    border-radius: 20px;   
+    margin-left: 170px;
+    margin-right: 170px;   
+    margin-top: 90px;
+    color: white;   
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+
+}
+
+.bf4 {
+
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:100px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+.bf5 {
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 580px;
+    margin-top:20px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+}
+
+.imagembf4 {
+    position: absolute;
+    left: 410px;      
+    top: 300px;  
+
+
+}
+
+/* IMAGEM VENCEU */
+
+.fim {
+    background-image: url(/Users/Administrador/Desktop/jogo/imagem/fase1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.miss {
+    text-align: center;
+    margin-top: 60px;
+    color: white;
+    text-transform: uppercase;
+
+}
+
+.acabou {
+
+    border-radius: 20px;   
+    margin-left: 170px;
+    margin-right: 170px;   
+    margin-top: 90px;
+    color: white;   
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+
+}
+
+
+.iniciof {
+
+    padding: 10px;
+    font-size: 20px;
+    margin-right: 490px;
+    margin-left: 610px;
+    margin-top:250px;
+    background: rgba(179, 29, 29, 0.87);
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+
+    
+}
+
+.talisp1 {   
+    position: absolute;
+    left: 220px;      
+    top: 250px;  
+
+}
+
+.talisp2 {
+
+    position: absolute;
+    left: 480px;      
+    top: 250px;  
+
+}
+
+.talisp3 {
+    position: absolute;
+    left: 480px;      
+    top: 390px;  
+
+
+}
+
+
+.talispf {
+    position: absolute;
+    left: 660px;      
+    top: 250px; 
+}
