@@ -1,5 +1,5 @@
 body {
-        background-image: url(/Users/Administrador/Desktop/jogo/imagem/fase1.jpg);
+        background-image: url("../imagem/fase1.jpg");
         background-repeat: no-repeat;
         background-size: cover;
 
@@ -91,7 +91,7 @@ h2 {
 /* FASE 2 */
 
 .fundof2 {
-        background-image: url(/Users/Administrador/Desktop/jogo/imagem/fundofase2.jpg);
+        background-image: url("../imagem/fundofase2.jpg");
 
 
 
@@ -169,7 +169,7 @@ h2 {
 /* Gamer over 2 */
 
 .gamer2 {
-        background-image: url(/Users/Administrador/Desktop/jogo/imagem/gamerover2.jpg);
+        background-image: url("../imagem/gamerover2.jpg");
 
         
 }
@@ -225,6 +225,6 @@ h2 {
 .fase3 { 
         height: 100%;
         width: 100%;
-        background-image: url(/Users/Administrador/Desktop/jogo/fase3/fundofase3.jpg);
+        background-image: url("../fase3/fundofase3.jpg");
         
 }

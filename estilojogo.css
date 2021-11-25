@@ -1,5 +1,5 @@
 .imagem-fundo {
-                background-image: url("/Users/Administrador/Desktop/jogo/imagem/fundo.jpg");
+                background-image: url("./imagem/fundo.jpg");
                 background-repeat: no-repeat;
                 background-size: cover;
 
@@ -46,7 +46,7 @@ h1 {
 /* PARTE DA APRESENTAÇÃO*/
 
 .fundo-apresentacao {
-                    background-image: url(/Users/Administrador/Desktop/jogo/imagem/fundoapresentacao3.jpg);
+                    background-image: url("./imagem/fundoapresentacao3.jpg");
                     
                 
 }
@@ -118,7 +118,7 @@ h1 {
 
 .escolhas {
         
-          background-image: url(/Users/Administrador/Desktop/jogo/imagem/fundoescolha.png);
+          background-image: url("./imagem/fundoescolha.png");
           background-repeat: no-repeat;
           background-size: cover;
          
@@ -245,7 +245,7 @@ h1 {
 
 
 .gamer { 
-        background-image: url(/Users/Administrador/Desktop/jogo/imagem/fundogameover.jpg);
+        background-image: url("./imagem/fundogameover.jpg");
         background-size: cover;
         background-repeat: no-repeat;
 

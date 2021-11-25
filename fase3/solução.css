@@ -1,7 +1,7 @@
 /* lagertha fase 3 */
 
 .fase3 {
-        background-image: url(/Users/Administrador/Desktop/jogo/fase3/fundofase3.jpg);
+        background-image: url("../fase3/fundofase3.jpg");
         background-size: cover;
         background-repeat: no-repeat;
 
@@ -107,7 +107,7 @@
 
 
 .fasefinal {
-            background-image: url(/Users/Administrador/Desktop/jogo/imagem/fasefinal2.jpg);
+            background-image: url("../imagem/fasefinal2.jpg");
            background-size: cover;
         background-repeat: no-repeat;
 
