@@ -79,8 +79,12 @@ h2 {
 
 }
 
-.talis1 {
+.fundotalisma {
         
+        background-image: url("../imagem/fase1.jpg");
+}
+
+.talis1 {
         position: absolute;
         left: 500px;
         top: 230px;
